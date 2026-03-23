@@ -324,6 +324,54 @@
       "https://www.wfaa.com/rss"
     ]
   },
+<<<<<<< Updated upstream
+=======
+  "France | Paris": {
+    "category_type": "city",
+    "source_language": "fr",
+    "display_names": {
+      "en": "France | Paris",
+      "ar": "فرنسا | باريس",
+      "ca": "França | París",
+      "de": "Frankreich | Paris",
+      "es": "Francia | París",
+      "et": "Prantsusmaa | Pariis",
+      "fr": "France | Paris",
+      "he": "צרפת | פריז",
+      "hi": "फ्रांस | पेरिस",
+      "it": "Francia | Parigi",
+      "ja": "フランス | パリ",
+      "ko": "프랑스 | 파리",
+      "nl": "Frankrijk | Parijs",
+      "pt": "França | Paris",
+      "ru": "Франция | Париж",
+      "uk": "Франція | Париж",
+      "zh-Hans": "法国 | 巴黎",
+      "zh-Hant": "法國 | 巴黎"
+    },
+    "feeds": [
+      "https://actu.fr/paris/rss.xml",
+      "https://bonjourparis.com/feed",
+      "https://feeds.bbci.co.uk/news/topics/cxw7q5zm562t/rss.xml",
+      "https://feeds.leparisien.fr/leparisien/rss/paris-75",
+      "https://feeds.thelocal.com/rss/fr/paris",
+      "https://fr.euronews.com/rss?level=tag&name=paris",
+      "https://secretsofparis.com/feed",
+      "https://www.20minutes.fr/feeds/rss-paris.xml",
+      "https://www.bfmtv.com/rss/paris/",
+      "https://www.cnews.fr/rss/tag/paris",
+      "https://www.foot-sur7.fr/foot-paris/feed",
+      "https://www.huffingtonpost.fr/paris/rss_headline.xml",
+      "https://www.lejournaldugrandparis.fr/feed/",
+      "https://www.lemonde.fr/paris/rss_full.xml",
+      "https://www.parisladefense.com/rss.xml",
+      "https://www.pariszigzag.fr/paris-au-quotidien/actualites-paris/feed/",
+      "https://www.sortiraparis.com/rss/sortir",
+      "https://www.telerama.fr/rss/paris.xml",
+      "https://www.theguardian.com/world/paris/rss"
+    ]
+  },
+>>>>>>> Stashed changes
   "USA | Houston": {
     "category_type": "city",
     "source_language": "en",
