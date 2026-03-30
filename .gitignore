@@ -29,3 +29,4 @@ coverage
 .vite
 .svelte-kit
 __pycache__/
+package-lock.json
