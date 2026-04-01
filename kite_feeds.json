@@ -8026,6 +8026,41 @@
       "https://wxii12.com/topstories-rss"
     ]
   },
+  "North Korea": {
+    "category_type": "topic",
+    "source_language": "ko-KP",
+    "display_names": {
+      "en": "North Korea",
+      "ar": "كوريا الشمالية",
+      "ca": "Corea del Nord",
+      "de": "Nordkorea",
+      "es": "Corea del Norte",
+      "et": "Põhja-Korea",
+      "fr": "Corée du Nord",
+      "he": "קוריאה הצפונית",
+      "hi": "उत्तर कोरिया",
+      "it": "Corea del Nord",
+      "ja": "北朝鮮",
+      "ko": "북한",
+      "nl": "Noord-Korea",
+      "pt": "Coreia do Norte",
+      "ru": "Северная Корея",
+      "uk": "Північна Корея",
+      "zh-Hans": "朝鲜",
+      "zh-Hant": "北韓"
+    },
+    "feeds": [
+      "https://en.yna.co.kr/RSS/nk.xml",
+      "https://feeds.northkoreatimes.com/rss/08aysdf7tga9s7f7",
+      "https://www.38north.org/feed/",
+      "https://www.dailynk.com/feed/",
+      "https://www.dailynk.com/chinese/feed/",
+      "https://www.dailynk.com/english/feed/",
+      "https://www.nknews.org/feed",
+      "https://www.northkoreatech.org/feed/",
+      "https://www.scmp.com/rss/33318/feed"
+    ]
+  },
   "North Macedonia": {
     "category_type": "topic",
     "source_language": "mk",
