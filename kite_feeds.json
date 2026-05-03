@@ -7466,6 +7466,37 @@
       "https://www.syri.net/syri_kosova/rss"
     ]
   },
+  "Laos": {
+    "category_type": "topic",
+    "source_language": "lo",
+    "display_names": {
+      "en": "Laos",
+      "ar": "لاوس",
+      "ca": "Laos",
+      "de": "Laos",
+      "es": "Laos",
+      "et": "Laos",
+      "fr": "Laos",
+      "he": "לאוס",
+      "hi": "लाओस",
+      "it": "Laos",
+      "ja": "ラオス",
+      "ko": "라오스",
+      "nl": "Laos",
+      "pt": "Laos",
+      "ru": "Лаос",
+      "uk": "Лаос",
+      "zh-Hans": "老挝",
+      "zh-Hant": "老撾"
+    },
+    "feeds": [
+      "https://lao.voanews.com/api/",
+      "https://laotiantimes.com/feed/",
+      "https://lnr.org.la/feed/",
+      "https://vientianemai.com/feed",
+      "https://www.scmp.com/rss/328050/feed"
+    ]
+  },
   "Latvia": {
     "category_type": "topic",
     "source_language": "lv",
