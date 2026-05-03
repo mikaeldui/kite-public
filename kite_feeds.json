@@ -8517,6 +8517,37 @@
       "https://zugo.md/feed"
     ]
   },
+  "Mongolia": {
+    "category_type": "topic",
+    "source_language": "mn",
+    "display_names": {
+      "en": "Mongolia",
+      "ar": "منغوليا",
+      "ca": "Mongòlia",
+      "de": "Mongolei",
+      "es": "Mongolia",
+      "et": "Mongoolia",
+      "fr": "Mongolie",
+      "he": "מונגוליה",
+      "hi": "मंगोलिया",
+      "it": "Mongolia",
+      "ja": "モンゴル",
+      "ko": "몽골리아",
+      "nl": "Mongolië",
+      "pt": "Mongólia",
+      "ru": "Монголия",
+      "uk": "Монголія",
+      "zh-Hans": "蒙古国",
+      "zh-Hant": "蒙古國"
+    },
+    "feeds": [
+      "https://www.mnb.mn/rss",
+      "https://olloo.mn/feed/",
+      "https://ikon.mn/rss",
+      "https://bolod.mn/engine/rss.php",
+      "https://www.mongoliaweekly.org/blog-feed.xml"
+    ]
+  },
   "Montenegro": {
     "category_type": "topic",
     "source_language": "cnr",
